@@ -1,5 +1,5 @@
 # pg-row-copier
-Uses NodeJS+pg+pg-copy-stream to easily copy rows from one DB to another.
+Uses NodeJS+pg+pg-copy-stream to easily copy rows from one DB to another. Used for creating test/sandbox dbs.
 
 Usage
 
