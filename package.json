@@ -1,0 +1,24 @@
+{
+  "name": "pg-row-copier",
+  "version": "1.0.0",
+  "description": "Allows COPY of rows from one PostGreSQL database to another",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TarlSS/pg-row-copier.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TarlSS/pg-row-copier/issues"
+  },
+  "homepage": "https://github.com/TarlSS/pg-row-copier#readme",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "pg": "^7.9.0",
+    "pg-copy-streams": "^2.2.0"
+  }
+}
